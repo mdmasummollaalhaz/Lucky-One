@@ -1,0 +1,19 @@
+.cart-items img{
+    width: 30px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+}
+
+.remove-btn{
+    background-color: red;
+    padding: 2px 5px;
+    border: none;
+    margin: 5px;
+    color: #fff;
+    transition: all .5s;
+}
+
+.remove-btn:hover{
+    background-color: rgb(196, 3, 3);
+}
+
