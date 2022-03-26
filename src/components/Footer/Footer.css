@@ -1,0 +1,18 @@
+.footer{
+    background-color: #31312f;
+    padding: 50px 0px;
+    color: #fff;
+}
+.footer p{
+    margin-bottom: 0px!important;
+}
+
+
+
+
+@media screen and (max-width: 500px) {
+    .product img{
+        max-width: 100%;
+    }
+    
+}

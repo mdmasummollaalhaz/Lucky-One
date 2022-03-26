@@ -1,9 +1,10 @@
 import React from 'react';
+import './Footer.css'
 
 const Footer = () => {
     return (
-        <div>
-            <h2>Footer</h2>
+        <div className='footer'>
+            <p>© Copyright 2022, The Power Shop.</p>
         </div>
     );
 };
