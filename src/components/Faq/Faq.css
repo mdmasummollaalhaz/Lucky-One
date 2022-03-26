@@ -1,9 +1,28 @@
 .faq-section{
     margin: 64px 0;
 }
+.faq{
+    padding: 50px 80px;
+}
+.faqSection{
+    text-align: left;
+    padding: 40px 20px;
+    background: #d8f1f8;
+    border-radius: 5px;
+}
 .faq h2{
     margin-bottom: 16px;
 }
 .faq p{
     margin: 4px 0;
+}
+.list-group-item-danger{
+    margin-bottom: 30px!important;
+}
+
+@media screen and (max-width: 500px) {
+    .faq{
+        padding: 50px 27px;
+    }
+    
 }
